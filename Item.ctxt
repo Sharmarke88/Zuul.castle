@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ Item.java.\ Holds\ information\ about\ each\ item\ in\ the\ game.\r\n\ \r\n\ @author\ \ Jahmiro\ Kooijstra\ and\ Sharmarke\ Hussein\r\n\ @version\ (25-01-2020)\r\n
+comment1.params=description\ name
+comment1.target=Item(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ voor\ klasse\ Item\r\n\ @param\ zorgt\ ervoor\ dat\ items\ een\ beschrijving\ en\ naam\ krijgen.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDescription()
+comment2.text=\r\n\ @return\ stuurt\ de\ beschrijving\ terug\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ @return\ stuurt\ de\ naam\ terug\ \r\n
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Character
+comment0.text=\r\n\ Character.java.\ Stores\ information\ about\ characters,\ non\ player\ characters.\r\n\ \r\n\ @author\ \ Jahmiro\ Kooijstra\ and\ Sharmarke\ Hussein\r\n\ @version\ (25-01-2020)\r\n
+comment1.params=name\ description\ itemname\ itemdesc
+comment1.target=Character(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ @param\ zorgt\ ervoor\ dat\ de\ character\ aan\ de\ juiste\ informatie\ voldoet\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDescription()
+comment2.text=\r\n\ @return\ zorgt\ ervoor\ dat\ de\ description\ terug\ gestuurd\ wordt\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ @return\ zorgt\ ervoor\ dat\ de\ naam\ terug\ gestuurd\ wordt\r\n
+numComments=4

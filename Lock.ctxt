@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Lock
+comment0.text=\r\n\ Door.java.\ Stores\ information\ and\ provides\ locking\r\n\ and\ unlocking\ of\ doors,\ lockable\ exits\ in\ Zuul.\r\n\ \r\n\ @author\ \ Jahmiro\ Kooijstra\ and\ Sharmarke\ Hussein\r\n\ @version\ (25-01-2020)\r\n
+comment1.params=direction\ neighbor\ locked
+comment1.target=Lock(java.lang.String,\ Room,\ boolean)
+comment1.text=\r\n\ Constructor\ van\ klasse\ door\r\n
+comment2.params=
+comment2.target=void\ lock()
+comment2.text=\r\n\ Zorgt\ ervoor\ dat\ een\ deur\ opslot\ is\r\n
+comment3.params=
+comment3.target=void\ unlock()
+comment3.text=\r\n\ Zorgt\ ervoor\ dat\ de\ deur\ open\ kan\r\n
+comment4.params=
+comment4.target=boolean\ getLocked()
+numComments=5
